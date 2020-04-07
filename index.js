@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 
 app.get('/', (req, res)=>{
-  return res.send("Servidor NodeJS!");
+  return res.send("Servidor React!");
 })
 
 app.listen(3333, ()=>{
