@@ -1,0 +1,7 @@
+{
+  "name": "api-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Danivaldo Sousa",
+  "license": "MIT"
+}
